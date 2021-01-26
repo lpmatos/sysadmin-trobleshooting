@@ -29,15 +29,31 @@
   <a href="#-how-to-contribute">How to contribute</a>
 </p>
 
-## ➤ Versioning
+## ➤ Iniciando
 
-🚨 We currently do not have a [**CHANGELOG.md**](CHANGELOG.md) generated 🚨
+Se você quer usar esse repositório, a primeira coisa a ser feita é um `git clone` para a sua máquina:
 
-## ➤ Author
+>
+> 1. git clone --depth 1 <https://github.com/lpmatos/loli.git> -b main
+>
+
+Com ele você terá acesso a tudo que está no servidor remoto do git, localmente em sua máquina.
+
+## ➤ Descrição
+
+Quais seriam os primeiros passos para se levar em consideração no início de uma análise de ambiente? É com essa pergunta que esse repositório foi criado. A intenção aqui é abordar o passo a passo que qualquer administrador de ambiente Linux deveria seguir quando iniciasse um troubleshooting em um servidor.
+
+Cotidianamento, administradores de ambientes Linux estão acostumados a receber tickets de support, reclamações ou até mesmo nossos sistemas de monitoramente, que nos retornão feedbacks de possíveis problemas em nossos ambientes. Sem saber qual é o problema e sem saber nada do cenário, quais serão os passos a serem feitos para validarmos a situação?
+
+## ➤ Versionamento
+
+🚨 Ainda não temos um arquivo [**CHANGELOG.md**](CHANGELOG.md) gerado 🚨.
+
+## ➤ Autor
 
 👤 **Lucca Pessoa**
 
-Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
+Fala tu!! Se você curtiu esse projeto e quiser entrar em contato comigo, esses são meus canais:
 
 >
 > * Email: luccapsm@protonmail.com
