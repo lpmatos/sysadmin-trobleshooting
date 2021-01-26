@@ -3,7 +3,7 @@
   "main": ".releaserc.json",
   "scripts": {
     "cm": "git cz",
-    "secrets": "gitleaks --verbose",
+    "secrets": "gitleaks",
     "release": "npx semantic-release --no-ci",
     "release-debug": "npx semantic-release --dry-run --no-ci --debug"
   },
