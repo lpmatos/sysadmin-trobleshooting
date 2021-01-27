@@ -5,7 +5,7 @@
 <h1 align="center">Sysadmin Troubleshooting</h1>
 
 <p align="center">
-  Repositório dedicado a ajudar pessoas a entrar para o mundo de sysadmin
+  👽 Repositório dedicado a documentar tarefas/processos do mundo de sysadmin 👽
 </p>
 
 <p align="center">
@@ -24,9 +24,12 @@
 </p>
 
 <p align="center">
-  <a href="#-description">Description</a>
+  <a href="#-descrição">Description</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>
+  <a href="#-objetivos">Objetivos</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tópicos">Tópicos</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## ➤ Iniciando
@@ -53,7 +56,8 @@ Cotidianamento, administradores de ambientes Linux estão acostumados a receber 
 
 ## ➤ Tópicos
 
-- [🗲 Iniciando](./docs/1%20-%20Iniciando.md)
+- [🗲 Iniciando](./docs/basic/1%20-%20Iniciando.md)
+- [🗲 Comandos mais usados](./docs/commands.md)
 
 ## ➤ O que será aprendido? 
 
