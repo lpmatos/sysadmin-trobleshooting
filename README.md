@@ -51,6 +51,10 @@ Cotidianamento, administradores de ambientes Linux estão acostumados a receber 
 - ✔️ Citar os comandos mais utilizados.
 - ✔️ Dar detalhes dos comandos mais utilizados.
 
+## ➤ Tópicos
+
+- [🗲 Iniciando](./docs/1%20-%20niciando.md)
+
 ## ➤ Versionamento
 
 🚨 Ainda não temos um arquivo [**CHANGELOG.md**](CHANGELOG.md) gerado 🚨.
