@@ -18,6 +18,9 @@
   <a href="http://commitizen.github.io/cz-cli/">
     <img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg">
   </a>
+  <a href="https://github.com/lpmatos/sysadmin-troubleshooting/actions">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/lpmatos/sysadmin-troubleshooting/Scan">
+  </a>
 </p>
 
 <p align="center">
