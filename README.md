@@ -53,7 +53,7 @@ Cotidianamento, administradores de ambientes Linux estão acostumados a receber 
 
 ## ➤ Tópicos
 
-- [🗲 Iniciando](./docs/1%20-%20niciando.md)
+- [🗲 Iniciando](./docs/1%20-%20Iniciando.md)
 
 ## ➤ Versionamento
 
