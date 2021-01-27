@@ -34,19 +34,44 @@
 
 ## ➤ Iniciando
 
-Se você quer usar esse repositório, a primeira coisa a ser feita é um `git clone` para a sua máquina:
+Se você quer usar esse repositório, a primeira coisa a ser feita é um `git clone` para a sua máquina 💻:
 
 ```bash
 git clone --depth 1 <https://github.com/lpmatos/loli.git> -b main
 ```
 
-Com isso você terá acesso a tudo que está aqui, localmente em sua máquina.
+Com isso você terá acesso a tudo que está aqui, localmente em seu ambiente.
 
 ## ➤ Descrição
 
-Quais seriam os primeiros passos para se levar em consideração no início de uma análise de ambiente? É com essa pergunta que esse repositório foi criado. A intenção aqui é abordar o passo a passo que qualquer administrador de ambiente Linux deveria seguir quando iniciasse um troubleshooting em um servidor.
+Quais seriam os primeiros passos para se levar em consideração no início da análise de ambiente, independente se o cenário é ou não crítico? É com base na resposta para essa pergunta que esse repositório foi criado. Minha intenção aqui é falar sobre alguns comandos qualquer administrador de ambiente Linux pode usar para iniciar um troubleshooting em um servidor, independente do cenário que ele se encontra, além de abordar comandos rotineiros para quem está nesse posto.
 
-Cotidianamento, administradores de ambientes Linux estão acostumados a receber tickets de support, reclamações ou até mesmo nossos sistemas de monitoramente, que nos retornão feedbacks de possíveis problemas em nossos ambientes. Sem saber qual é o problema e sem saber nada do cenário, quais serão os passos a serem feitos para validarmos a situação?
+### Cenários
+
+- Cotidianamento, administradores de ambientes Linux estão acostumados a receber tickets de support, reclamações ou até mesmo nossos sistemas de monitoramente, que retorna feedbacks de possíveis problemas nos ambientes. Sem saber qual é o problema e sem saber nada do cenário, quais são os passos a serem feitos para validarmos a situação?
+- Quais comandos mais usados por um administrador Linux para realização de Troubleshootings?
+
+### Comandos mais usados 🎉
+
+Em manutenções de rotina, esses comandos poderão te ajudar em algum momento, tanto para monitoramento, quanto para possíveis análises simples:
+
+
+⮚ 📝 `ls` - Te permite lista todos os arquivos em um diretório.
+⮚ 📝 `df` - Mostra a quantidade de espaço usada no disco rígido.
+⮚ 📝 `du` - Ajuda a obter informações mais detalhadas sobre quais arquivos estão usando o espaço em disco em um diretório.
+⮚ 📝 `top` - Mostra o uso da memória, CPU e outros insights importantíssimos.
+⮚ 📝 `cd` - O change directory, te permite acessar um determinado diretório.
+⮚ 📝 `mkdir` - Te permite criar um diretório.
+⮚ 📝 `rm` - Com ele você irá conseguir remover aquivos ou diretórios.
+⮚ 📝 `cat` - Concatena e imprime arquivos.
+⮚ 📝 `vi` - Abre o editor de texto `viai`.
+⮚ 📝 `curl` - Muito utilizado para verificar a conectividade da URL, além de ser ótimo para transferência de dados.
+⮚ 📝 `tail` - Exibe a última parte de um arquivo.
+⮚ 📝 `grep` - Comando para pesquisar padrões em um arquivo.
+⮚ 📝 `env` - Define ou imprime variáveis de ambiente do sistema.
+⮚ 📝 `netstat` - Retorna o status da sua rede. 
+
+Para mais detalhes, veja nossa [documentação](./docs/commands.md)! 🧐
 
 ## ➤ Objetivos
 
