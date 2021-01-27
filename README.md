@@ -46,12 +46,12 @@ Com isso você terá acesso a tudo que está aqui, localmente em seu ambiente.
 
 Quais seriam os primeiros passos para se levar em consideração no início da análise de ambiente, independente se o cenário é ou não crítico? É com base na resposta para essa pergunta que esse repositório foi criado. Minha intenção aqui é falar sobre alguns comandos qualquer administrador de ambiente Linux pode usar para iniciar um troubleshooting em um servidor, independente do cenário que ele se encontra, além de abordar comandos rotineiros para quem está nesse posto.
 
-### Cenários 🔗
+### Cenários 
 
 - Cotidianamento, administradores de ambientes Linux estão acostumados a receber tickets de support, reclamações ou até mesmo nossos sistemas de monitoramente, que retorna feedbacks de possíveis problemas nos ambientes. Sem saber qual é o problema e sem saber nada do cenário, quais são os passos a serem feitos para validarmos a situação?
 - Quais comandos mais usados por um administrador Linux para realização de Troubleshootings?
 
-### Comandos mais usados 🎉
+### Comandos mais usados 
 
 Em manutenções de rotina, esses comandos poderão te ajudar em algum momento, tanto para monitoramento, quanto para possíveis análises simples:
 
@@ -73,7 +73,7 @@ Em manutenções de rotina, esses comandos poderão te ajudar em algum momento, 
 
 Para mais detalhes, veja nossa [documentação](./docs/commands.md)! 🧐
 
-### Links 📌
+### Links 
 
 - ⮚ 📂 <https://www.hostinger.com.br/tutoriais/comando-curl-linux>
 - ⮚ 📂 <https://opensource.com/article/17/7/20-sysadmin-commands>
